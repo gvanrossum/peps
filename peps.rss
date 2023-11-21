@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Newest Python PEPs</title>
+    <link>https://peps.python.org/peps.rss</link>
+    <description>Newest Python Enhancement Proposals (PEPs): Information on new language features and some meta-information like release procedure and schedules.</description>
+    <atom:link href="https://peps.python.org/peps.rss" rel="self"/>
+    <docs>https://cyber.harvard.edu/rss/rss.html</docs>
+    <language>en</language>
+    <lastBuildDate>Tue, 21 Nov 2023 19:54:26 GMT</lastBuildDate>
+    <item>
+      <title>PEP 8105: 2024 Term Steering Council election</title>
+      <link>https://peps.python.org/pep-8105/</link>
+      <description>This document describes the schedule and other details of the 2023 election for the Python steering council, as specified in PEP 13. This is the steering council election for the 2024 term (i.e. Python 3.13).</description>
+      <author>Ee Durbin (ee@python.org)</author>
+      <guid isPermaLink="true">https://peps.python.org/pep-8105/</guid>
+      <pubDate>Mon, 23 Oct 2023 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>PEP 733: An Evaluation of Python's Public C API</title>
+      <link>https://peps.python.org/pep-0733/</link>
+      <description>This informational PEP describes our shared view of the public C API. The document defines:</description>
+      <author>Erlend Egeberg Aasland (erlend@python.org), Domenico Andreoli (domenico.andreoli@linux.com), Stefan Behnel (stefan_ml@behnel.de), Carl Friedrich Bolz-Tereick (cfbolz@gmx.de), Simon Cross (hodgestar@gmail.com), Steve Dower (steve.dower@python.org), Tim Felgentreff (tim.felgentreff@oracle.com), David Hewitt (1939362+davidhewitt@users.noreply.github.com), Shantanu Jain (hauntsaninja at gmail.com), Wenzel Jakob (wenzel.jakob@epfl.ch), Irit Katriel (irit@python.org), Marc-Andre Lemburg (mal@lemburg.com), Donghee Na (donghee.na@python.org), Karl Nelson (nelson85@llnl.gov), Ronald Oussoren (ronaldoussoren@mac.com), Antoine Pitrou (solipsis@pitrou.net), Neil Schemenauer (nas@arctrix.com), Mark Shannon (mark@hotpy.org), Stepan Sindelar (stepan.sindelar@oracle.com), Gregory P. Smith (greg@krypto.org), Eric Snow (ericsnowcurrently@gmail.com), Victor Stinner (vstinner@python.org), Guido van Rossum (guido@python.org), Petr Viktorin (encukou@gmail.com), Carol Willing (willingc@gmail.com), William Woodruff (william@yossarian.net), David Woods (dw-git@d-woods.co.uk), Jelle Zijlstra (jelle.zijlstra@gmail.com)</author>
+      <guid isPermaLink="true">https://peps.python.org/pep-0733/</guid>
+      <pubDate>Mon, 16 Oct 2023 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>PEP 732: The Python Documentation Editorial Board</title>
+      <link>https://peps.python.org/pep-0732/</link>
+      <description>This PEP:</description>
+      <author>Joanna Jablonski</author>
+      <guid isPermaLink="true">https://peps.python.org/pep-0732/</guid>
+      <pubDate>Sat, 14 Oct 2023 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>PEP 731: C API Working Group Charter</title>
+      <link>https://peps.python.org/pep-0731/</link>
+      <description>This PEP proposes to establish the C API Working Group: a small committee of Python core developers responsible for overseeing and coordinating the development and maintenance of the Python C API.</description>
+      <author>Guido van Rossum (guido@python.org), Petr Viktorin (encukou@gmail.com), Victor Stinner (vstinner@python.org), Steve Dower (steve.dower@python.org), Irit Katriel (irit@python.org)</author>
+      <guid isPermaLink="true">https://peps.python.org/pep-0731/</guid>
+      <pubDate>Wed, 11 Oct 2023 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>PEP 730: Adding iOS as a supported platform</title>
+      <link>https://peps.python.org/pep-0730/</link>
+      <description>This PEP proposes adding iOS as a supported platform in CPython. The initial goal is to achieve Tier 3 support for Python 3.13. This PEP describes the technical aspects of the changes that are required to support iOS. It also describes the project management concerns related to adoption of iOS as a Tier 3 platform.</description>
+      <author>Russell Keith-Magee (russell@keith-magee.com)</author>
+      <guid isPermaLink="true">https://peps.python.org/pep-0730/</guid>
+      <pubDate>Mon, 09 Oct 2023 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>PEP 729: Typing governance process</title>
+      <link>https://peps.python.org/pep-0729/</link>
+      <description>This PEP proposes a new way to govern the Python type system: a council that is responsible for maintaining and developing the Python type system. The council will maintain a specification and conformance test suite and will initially be appointed by the Python Steering Council.</description>
+      <author>Jelle Zijlstra (jelle.zijlstra@gmail.com), Shantanu Jain (hauntsaninja at gmail.com)</author>
+      <guid isPermaLink="true">https://peps.python.org/pep-0729/</guid>
+      <pubDate>Tue, 19 Sep 2023 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>PEP 727: Documentation in Annotated Metadata</title>
+      <link>https://peps.python.org/pep-0727/</link>
+      <description>This PEP proposes a standardized way to provide documentation strings for Python symbols defined with Annotated using a new class typing.Doc.</description>
+      <author>Sebastián Ramírez (tiangolo@gmail.com)</author>
+      <guid isPermaLink="true">https://peps.python.org/pep-0727/</guid>
+      <pubDate>Mon, 28 Aug 2023 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>PEP 726: Module ``__setattr__`` and ``__delattr__``</title>
+      <link>https://peps.python.org/pep-0726/</link>
+      <description>This PEP proposes supporting user-defined __setattr__ and __delattr__ methods on modules to extend customization of module attribute access beyond PEP 562.</description>
+      <author>Sergey B Kirpichev (skirpichev@gmail.com)</author>
+      <guid isPermaLink="true">https://peps.python.org/pep-0726/</guid>
+      <pubDate>Thu, 24 Aug 2023 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>PEP 725: Specifying external dependencies in pyproject.toml</title>
+      <link>https://peps.python.org/pep-0725/</link>
+      <description>This PEP specifies how to write a project’s external, or non-PyPI, build and runtime dependencies in a pyproject.toml file for packaging-related tools to consume.</description>
+      <author>Pradyun Gedam (pradyunsg@gmail.com), Ralf Gommers (ralf.gommers@gmail.com)</author>
+      <guid isPermaLink="true">https://peps.python.org/pep-0725/</guid>
+      <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>PEP 723: Inline script metadata</title>
+      <link>https://peps.python.org/pep-0723/</link>
+      <description>This PEP specifies a metadata format that can be embedded in single-file Python scripts to assist launchers, IDEs and other external tools which may need to interact with such scripts.</description>
+      <author>Ofek Lev (ofekmeister@gmail.com)</author>
+      <guid isPermaLink="true">https://peps.python.org/pep-0723/</guid>
+      <pubDate>Fri, 04 Aug 2023 00:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
